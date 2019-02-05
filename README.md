@@ -1,5 +1,5 @@
 
-## Instalar
+## Instrucciones
 
 * git clone 
 * npm install
